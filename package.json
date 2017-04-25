@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "body-parser": "^1.13.2",
-    "cf-deployment-tracker-client": "0.1.2",
+    "cf-deployment-tracker-client": "^0.x",
     "dotenv": "^2.0.0",
     "ejs": "^2.3.4",
     "express": "^4.12.2",
